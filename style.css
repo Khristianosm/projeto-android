@@ -181,9 +181,6 @@ aside ul {
     columns: 2;
 }
 
-a:hover {
-    text-decoration: underline;
-}
 
 footer > a {
     color: white;
