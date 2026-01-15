@@ -181,6 +181,15 @@ aside ul {
     columns: 2;
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
+footer > a {
+    color: white;
+    text-decoration: none;
+}
+
 footer {
     background-image: linear-gradient(to bottom, var(--cor5), var(--cor6));
     color: white;
